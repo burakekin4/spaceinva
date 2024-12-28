@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('/background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(243, 236, 236);
+}
+
